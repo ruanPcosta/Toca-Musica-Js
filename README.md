@@ -1,6 +1,7 @@
-Tocador de Musica feito em HTML + JavaScript
+<h1>Tocador de Musica feito em HTML + JavaScript</h1>
 
-Contém 16 musicas classicas
+
+<h2>Contém 16 musicas classicas</h2>
 
 ![print1](https://github.com/ruanPcosta/Toca-Musica-Js/assets/111321307/c0a3eae7-b6dc-45ed-980f-a49d3b76cf06)
 
